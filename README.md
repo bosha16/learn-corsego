@@ -2,7 +2,7 @@
 README
 
 
-Demo: https://edurge.herokuapp.com/
+Demo: https://corsego.herokuapp.com/
 
 ---
 
